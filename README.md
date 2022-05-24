@@ -11,7 +11,15 @@ numerical computing, and modelling. A part of my hobby, I intend to present the 
 computing and modeling in an easy accessible way! In that sense, the follower would learn 
 how to desing algorithm, think of a solution analytically, and plan the solution computationally.
 If you have any inquires, comments, suggestions, ideas, feedback, ...etc, please don't hesitate 
-to email me on `tahaselim@protonmail.com`
+to email me on `tahaselim@protonmail.com`.
+
+Email:      tahaselim@protonmail.com
+website:    www.tiselim.com (under construction)
+LinkedIn:   https://www.linkedin.com/in/tiselim/
+twitter:    https://twitter.com/TahaISelim
+YouTube:    
+
+
 
 ### References: 
 - Numerical Approximation Methods, Harold Cohen, Springer New York, NY
