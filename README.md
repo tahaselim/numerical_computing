@@ -1,1 +1,2 @@
-# numerical_computing
+# Numerical Computing
+## algorithms and codes
